@@ -1,13 +1,10 @@
----
+title: "130 Years of USA Names (1880–2010)"
+description: |
+  ### 130 Years of USA Names (1880–2010)
 
-###130 Years of USA Names (1880–2010)
+  # 👶 130 Years of US Baby Name Trends (1880–2010)
 
-```markdown
-# 👶 130 Years of US Baby Name Trends (1880–2010)
-
-An interactive demographic exploration platform built with **Python**, **Pandas**, and **Streamlit** to analyze over a century of historical naming patterns from official US Social Security Administration (SSA) birth records.
-
----
+  An interactive demographic exploration platform built with **Python**, **Pandas**, and **Streamlit** to analyze over a century of historical naming patterns from official US Social Security Administration (SSA) birth records.
 
 ## 📌 Overview
 
