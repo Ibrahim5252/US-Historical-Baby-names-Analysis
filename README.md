@@ -1,6 +1,4 @@
-title: "130 Years of USA Names (1880–2010)"
-description: |
-  ### 130 Years of USA Names (1880–2010)
+
 
   # 👶 130 Years of US Baby Name Trends (1880–2010)
 
