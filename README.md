@@ -1,6 +1,6 @@
 ---
 
-### 130 Years of USA Names (1880–2010)
+###130 Years of USA Names (1880–2010)
 
 ```markdown
 # 👶 130 Years of US Baby Name Trends (1880–2010)
